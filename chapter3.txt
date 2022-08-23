@@ -1,0 +1,355 @@
+CHAPTER THREE
+RESEARCH METHODOLOGY
+
+LIGHTING AND AESTHETICS
+
+3.1 Natural Lighting
+A vital aspect of guest comfort in hotel rooms is the control of solar rays. The function rooms and 
+other public areas are also to be effectively shaded from harsh solar conditions. Some control is 
+given a special study due to the peculiar situation of the project site in relation to the environment. 
+The site alignment is such that the buildings long elevations shall lie in East-West orientation since 
+the front shall face the expressway. This orientation is desirable to achieve thermal comfort. 
+Daylighting is the practice of bringing light into a building interior and distributing it in a way that 
+provides more desirable and better-quality illumination than artificial light sources. (SBTM, 1996) 
+According to the Passive Design Best Practices (2008), it maximizes the use and distribution of 
+natural diffused daylight throughout a building ‘s interior to reduce the need for artificial electric 
+lighting. Careful design is required to avoid overheating and to minimize glare, and to complement 
+passive heating and cooling strategies such as shading. In order to maximize energy savings, 
+advanced electrical control systems like sensors should be integrated. 
+To fully daylight most spaces, there are various approaches one could utilize on internal and 
+external walls. These could be combined with each other or repeated as a pattern across the space. 
+For example, Wall Wash Top-lighting on an interior wall could be combined with High Clerestory 
+Side-lighting and View Windows on an exterior wall to fully daylight a space. Since daylight is 
+additive, the total amount of daylight in the space is the sum of the daylight available from each 
+individual pattern. Each guideline represents a daylight delivery system with inherent advantages 
+and disadvantages, which are summarized below in the Table below:
+
+Design Criteria View 
+Windows
+High 
+Sidelight 
+w/Light Shelf
+Wall Wash 
+Toplighting
+Central & 
+Patterned 
+Toplighting
+Linear 
+Toplighting
+Uniform Light 
+Distribution 
+Low Glare 
+Reduced 
+Energy Costs 
+Cost 
+Effectiveness 
+Safety/Security 
+Concerns 
+Low 
+Maintenance 
+Table 3.1 Selection Criteria for Daylighting Strategies Source: National Best Practices Manual for 
+Building 
+Extremely good application
+Good application
+Poor application 
+Extremely poor application
+Depends on space layout and number and distribution of daylight apertures 
+Mixed benefits 
+To achieve natural daylighting in buildings, the following guidelines are necessary: 
+
+3.1.1 Optimize use of daylight 
+i. Configure the fenestration system to achieve a high daylight factor. 
+ii. Consider glare-protection strategies that minimize the time when interior shading 
+devices must be drawn. 
+iii. Orient windows for regularly occupied spaces to create views and to visually connect 
+indoors and outdoors. 
+
+3.1.2 Orient building to optimize daylight. 
+Create an elongated massing allowing for daylighting using north-facing and south-facing 
+glass. An east-west elongated building with an appropriate overhang will permit effective 
+daylighting while increasing winter solar gain through south glass and reducing the direct 
+penetration of summer sun. 
+Avoid exposed, east-facing and west-facing glass because of the large variation in light levels 
+throughout the day and greater solar gains in the warmer months, resulting in increased cooling 
+requirements. Eastern exposures are less problematic than the western ones in terms of heating 
+and cooling costs. 
+Consider north-facing glazing for occupants requiring more uniform levels of diffuse daylight. 
+
+3.2 Relationship between Lighting and Hotel Design
+Figure 3.1: North versus south windows: South windows are shaded from direct sunbut receive daylight reflected off concrete walk and white painted overhangs. North 
+windows are large and unshaded. 
+
+3.2.1 Form to guide daylight. 
+Incorporate daylight-enhancing techniques to bring light into interior spaces. o Evaluate such 
+design elements to ensure that they do not add to building heating and cooling loads. o Place 
+and size glazing apertures appropriately. Maximize daylight through location and size of 
+windows, roof monitors and skylights and through use of glazing systems and shading devices 
+appropriate to building orientation and space use. 
+Design to avoid glare by using top lighting such as monitors in the roof or ceiling plane that 
+allow a greater quantity and more even distribution of daylight within spaces. Flat, bubble and 
+low-slope skylights have a negative heat balance, but provide glare-free light with lightdeflecting devices installed underneath them. 
+Consider high clerestory windows (often preferable to skylights) to provide deep daylight 
+penetration, especially for spaces needing useable wall space. o Consider the use of interior 
+and/or exterior light shelves, especially on south-facing windows and appropriate east or west 
+facades, for deeper daylight penetration. 
+Provide exterior shading devices (overhangs, fins, projecting light shelves, etc.) where solar 
+gain and direct light are undesirable. 
+a.) b.) 
+ 
+Figure 3.2: View window, b.) Clerestory window 
+Figure 3.3: View windows and clerestory window combination provide a more uniform distribution of 
+daylight across the space 
+Figure 3.4: Exterior lightshelves reflecting sunlight onto ceilings. 
+Figure 3.5: Deeply coffered ceiling helps to diffuse light from four skylights. There are no electric lights 
+on in this photo 
+
+3.1.3 Provide daylighting controls. 
+Design appropriate daylight harvesting controls. Review alternatives for reducing electric 
+lighting use through daylight harvesting. Continuous daylight dimming has broad occupant 
+acceptance, especially if, in individual spaces, it is coupled with a manual dimmer that allows 
+for adjustment for maximum intensity of the artificial light from lamps. On/off or three-stage 
+controls are appropriate for spaces with transitory occupancy (e.g., corridors) and where the 
+glazed areas are large so that the change from one light level to another rarely occurs. 
+Figure 3.6: Horizontal blinds allow control of brightness from lower view windows. 
+Note that high clerestory windows have no blinds so that daylight can reach deep into 
+spaces. 
+Figure 3.7: Shading angles for a south elevation 
+Source: Los Alamos National Laboratory Sustainable Design Guide 
+Figure 3.8 : Horizontal and vertical shading ratios. This figure lists the appropriate x/y ratios for 
+completely shading a south-facing window for various months at two different time ranges. Use the 
+lower portion of this figure to determine the appropriate azimuth angle for shading an east- or westfacing window at various dates and times 
+Source: Los Alamos National Laboratory Sustainable Design Guide 
+Figure 3.9: Effects of internal and external shading Source: Passive Design Guide 
+Best Practices
+a.) b.) 
+Figure 3.10: Sawtooth Roof, b.) Roof Monitor 
+Source: Sustainable Building Technical Manual 
+Figure 3.11: Skylit wall wash delivers daylight across two-thirds of this classroom. 
+Source: National Best Practices Manual for Building High Performance Schools 
+Figure 3.12 : Sawtooth monitor with baffers. 
+
+3.3 Architectural Solution and Strategies to Design Solution
+3.3.1 Passive Cooling and Ventilation
+The architectural solutions have been discussed under the framework of using passive 
+strategies to control and maintain climate elements in the building
+Passive or natural ventilation strategies use naturally occurring air flow patterns around and in 
+a building to introduce outdoor air into the space. Passive ventilation must be considered 
+during the design process because many architectural features affect air flows through a 
+building, including the building shape, layout of interior walls, floors and even furniture. 
+Design features must strike a balance between privacy/noise attenuation needs and the desired 
+path of least resistance for air distribution. Hence the following design measures should be 
+considered ideal: 
+Consider natural ventilation strategies in design of exterior window and wall openings to 
+reduce reliance on mechanical ventilation at least during swing seasons. o Consider low and 
+high pressure zones to drive natural ventilation across buildings. Ventilation rates will also 
+be affected by prevailing wind direction. 
+Figure 3.13: Distribution of wind pressure around a building 
+Design for cross ventilation. 
+Figure 3.14 : Cross ventilation Source: Passive design toolkit 
+Use stack effect for cooling through high vent reliefs on stairwells and other high outlets where 
+smoke evacuation will not be compromised. 
+Figure3.15: Stack ventilation Source: Passive design toolkit
+Consider pressure and suction across the building envelope in achieving natural ventilation and
+infiltration
+Figure3.16: Wind pressure, suction and wind flow around buildings 
+Source: Busato 2003 
+Consider the shape and orientation of the building relative to the direction of the wind which 
+are both directly related to the way in which the airflow behaves around volumes 
+Figure3.17: Wind flow and shadow effect between buildings 
+Source: Busato 2003 
+Consider the effect positive effects of effective vegetation on wind pattern. 
+Figure3.18: Effects of vegetation on wind pattern 
+Source: Busato 2003 
+Consider the shape and configuration of the opening which also have an effect on the internal wind 
+speeds. 5
+Figure3.19: Average internal velocity, percentage of the outside as a factor of the 
+inlet/outlet ratio and wind direction 
+Source: Busato 2003 
+Consider the use of intermediate openings. The internal air distribution is mostly determined 
+by the total area of the openings in the walls with the smallest area of openings. This may be 
+an important consideration in the planning of multi zone spaces such as auditoriums 
+Figure3.20: Effects of opening location and size in adjacent walls 
+Source: Busato 2003 
+Plan the introduction of ventilation openings which can also be placed in the roof or above in 
+the form of clerestory windows, ridge projections or wind catchers. The best position for 
+clerestory openings acting as inlets is in the upwind section of the roof and in the downwind 
+for exhausts. 
+Figure3.21: Effects of clerestory on average internal airflow rates 
+Source: Busato 2003 
+Carefully balance the deficits of operable windows, which may compromise the efficiency and 
+maintenance of central systems, with the psychological benefits of operable windows, e.g., 
+operable windows in offices but not labs. 
+Consider fan-powered night ventilation in lieu of operable windows. Night ventilation must be 
+enthalpy-controlled to avoid introducing excessive humidity in the building. 
+Design for maximum benefit from economizer cooling in mechanical systems. 
+
+3.3.2 Electricity and Lighting: 
+The nature of hotels makes it imperative that electricity and electrical fittings have to be given 
+special attention. Particular consideration must be given to the effects achieved with lighting in 
+bedrooms, function rooms, kitchens and cloaks of particular importance is the positioning of 
+outlets. 
+There should be at least one socket outlets by each bed. Possibly incorporated with the lighting 
+control panel, so that guests may use any portable appliances they may bring. Other sockets are 
+desirable for cleaning and for portable lamps. In the bathrooms, razor sockets are necessary and in 
+the corridors, a reasonable number is needed for cleaning. 
+Socket outlets are also essential in kitchens and function rooms. These are provided with an aim 
+of making it possible for use of any electrical appliances as might be needed in these places. 
+In addition to the public power supply, provision is to be made for a standby power generating 
+machine, as the public power supply in Nigeria is not reliable. 
+
+3.3.3 Heating, Cooling, Ventilation and Air Conditioning: 
+There are four basic elements about which decision need to be taken in the design of a central 
+thermal installation. First the basic energy supply, second, the central plant which converts the 
+energy into positive or negative heat, third, the heat transfer medium and distribution system which 
+conveys this potential heat to the individual spaces within the building fourth, it is transformed 
+useful heat and supplied at the correct rate for the particular room or space by terminal units. 
+Basic energy supply is usually oil, though electricity, gas or solid fuel may be employed, 
+depending on the nature of the plant. Guests are supposed to also have some degree of individual 
+control over the micro-climatic conditions in their rooms. 
+
+3.3.4 Heating: 
+We do not have much problem in the heating of interiors here in the tropics. Therefore, heating in 
+hotels here refers to the space and location for boilers and hot water storage. Attention is given to 
+the noise and heat from boiler rooms, relation to fuel storage, accessibility for maintenance 
+(Dutton, 2005).
+
+3.4 AESTHETICS
+The sensory perception and understanding of sensuous knowledge of designs. According to 
+Baumgarten (2003), a design and a philosopher of aesthetics picked up this term and changed its 
+meaning to gratification of the senses or subconscious delight. That is work of design that is 
+produced to gratify our senses. The concept has since been applied to any aspect of the experiences 
+of art, such as aesthetic judgment, aesthetic attitude, aesthetic understanding, aesthetic emotion 
+and aesthetic value in Industrial design. All are part of the aesthetic sensibility in hotel design and 
+they are mostly used in arts especially visual designs and visual arts. As a result, aesthetic 
+sensibility in hotel designing philosophically and psychologically deals with the quality of a design 
+work, the physical appearance, its pleasing nature and the unity of forms and appearance of each 
+aspect of the design against other aspect that evoke emotional response (Kenneth, 2013).
+Adelabu and Yamanaka (2014), opined that aesthetics fills an important role in the evolutionary 
+trend of design as the design of objects in turn has taken a key position in shaping culture and 
+contemporary education and impacting lives in far-reaching ways. As designer according to 
+Adelabu et al, one need to get more aware of the emotive powers of design and that as the aesthetic 
+quality of products are increasing, these become a pervasive factor in the design process and a 
+promise that must be kept towards the user’s satisfaction (Qinping, 2006).
+The term or concept “aesthetic sensibility of contemporary hotel design” hinges on man’s 
+awareness of beauty and fashion product that harmonizes with man’s consciousness of beauty. It 
+employs technological advancement material properties, existing tools and implements to better 
+the condition of human living, that it entails human psychology and the principles of economics 
+which cannot be disassociated in human choice of dynamics making in hotel design (Anders, 
+2009). The theory aesthetic is deemed important to designers because it is a branch of philosophy 
+associated with art and beauty (Zhang, 2009) which is concerned with how individual perceives 
+objects or make judgment based upon information received as five sensory inputs. It is this 
+perception and affective emotional connection that make aesthetic concern much more important 
+and act as the bridge between designs and designers. (Carlson, 2003).
+
+3.5 RELATED AREA OF DESIGN EMPHASIS 
+Other appropriated related issues have been discussed as follows:
+
+3.5.1 General Planning Principles & Design Considerations 
+The design principles and considerations discussed here are organized to highlight green building 
+strategies to be applied in the tropics in a hotel design. For the purpose of this study, the challenges 
+of hot humid climate should be seriously considered. With that in mind, alongside with the typical 
+green building strategies, the ones considered to be of greater importance are those concerning 
+thermal comfort, natural ventilation and daylighting. Applying these guidelines will result in a 
+hotel that is healthy, comfortable, resource efficient, water efficient, safe, and adaptable.
+ 
+3.5.2 Circulation 
+Arrangements for vertical circulation (stairs, elevators, and engineering services) often determines 
+the floor plans of multi-story hotels. Some rules and regulations guide the provision and 
+installation of circulation and communication services in hotels. Shafts and stair-wells extending 
+through the building for instance, must be enclosed and protected to avoid the risk of fire spreading 
+from floor to floor. This is most economically and advantageously done by grouping vertical 
+circulation and services together within the structural core. 
+Fire safety requirements influence the positions of circulation and services cores and also limit the 
+travel distance from any guest room or apartment to this protected exit. Maximum travel distance 
+depends on many factors, amongst which are height of building and combustibility of its frame or 
+panels, the availability of alternative routes of escape and the installation of automatic water 
+sprinklers. 
+Apart from short end corridors, it is necessary to provide at least alternative stair cases and 
+secondary stairs for housekeeping and room service circulation. 
+Provision of elevators is necessary for all hotels over three storeys. These elevators are necessary 
+and fundamentally put in same area with main staircase for the following reasons: -
+More efficient elevator service, interchange and control 
+The staircase provides an obvious alternative in emergency Structural design, equipment 
+installation and maintenance are simplified. 
+The circulation/service core can be used as a structural support or stiffening for the 
+building. 
+
+Typical installations and speeds for lifts 
+Typical installation of hotels Speeds 
+4-8 storeys 1.25m/s 
+8-12 storeys 1.75m/s 
+12-16 storeys 2.40m/s 
+Table 3.1 Capacities: 1100 – 1600kg 0r 16-22 persons. 
+Source: Fred Lawson (1976, p.131) 
+For circulation around the site, vehicular path should be well separated from pedestrian path. The 
+road pattern should be cohesive. 
+According to Richard and Robert (1997) refining the roadway involves three activities 
+i. Shortening each road to reduce its impact on individual units and clusters, and to reduce 
+costs.
+ii. Organizing parking to relate most directly to each unit without compromising 
+environmental quality.
+iii. Designing the road to assure buffering and integration with the other plan elements. 
+
+REFERENCES
+Meade, L. M., & Presley, A. (2002). R&D project selection using the analytic network process. 
+IEEE Transactions on Engineering Management, 49, 59–66. 
+Meade, L. M., & Sarkis, J. (1998). Strategic analysis of logistics and supply chain management 
+systems using the analytical network process. Transportation research Part E: Logistics 
+and Transportation Review, 34, 201–215. 
+Meade, L. M., & Sarkis, J. (1999). Analyzing organizational project alternatives for agile 
+manufacturing processes: An analytical network approach. International Journal of 
+Production Research, 37, 241–261. 
+Min, H., Min, H., & Chung, K. (2002). Dynamic benchmarking of hotel service quality. Journal 
+of Services Marketing, 16(4), 302–322.
+Ministry of Islamic guidance, Research and center of tourism (2008), "Investigation on hoteling 
+industry in Iran", 2008.
+Ministry of Islamic guidance, Research and study center of tourism (2006), "Investigation on 
+hoteling industry in Iran", 2006.
+Ngai, E. W. T., & Wat, F. K. T. (2003). Design and development of a fuzzy expert system for 
+hotel selection. Omega, 31, 275 – 286. 
+Oh, H. (2003). Price fairness and its asymmetric effects on overall price, quality, and valued 
+judgments: the case of an upscale hotel. Tourism Management, 24, 387–399. 
+Onüt, S., & Soner, S. (2008). Transshipment site selection using the AHP and TOPSIS 
+approaches under fuzzy environment. Waste Management, 28(9), 1552-1559.
+Partovi, F. Y., & Corredoira, R. A. (2002). Quality function deployment for the good of soccer. 
+European Journal of Operational Research, 137, 642–656.
+Raymond, K. S., & Chu, T. C. (2000). An importance-performance analysis of hotel selection 
+factors in the Hong Kong hotel industry: a comparison of business and leisure travelers. 
+Tourism Management, 21, 363-377. 
+Renner, P. F. (1994). Basic hotel front office procedures. NJ: John Wiley & Sons, Inc.
+Saaty, T. L. (1996). Decision making with dependence and feedback: The analytic network 
+process. Pittsburgh: RWS Publications.
+Saaty, T. L., & Takizawa, M. (1986). Dependence and independence from linear hierarchies to 
+nonlinear Networks. European Journal of Operational Research, 26, 229–237. 
+Shipley, M. F., Korvin, D. K., & Obit, R. (1991). A decision making model for multi-attribute 
+problems incorporating uncertainty and bias measures. Computers & Operations Research, 
+18, 335–342. 
+Shyur, H. J. (2006). COTS evaluation using modified TOPSIS and ANP. Applied Mathematics 
+and Computation, 177, 251–259. 
+Shyur, H. J., & Shih, H. S. (2006). A hybrid MCDM model for strategic vendor selection. 
+Mathematical and Computer Modeling, 44, 749–761. 
+Soriano, D. R. (1999). Total quality management: Applying the European model to Spain’s 
+urban hotels. Cornell Hotel and Restaurant Administration Quarterly, 40(1), 54–59.
+Stutts, A. T. (2001). Hotel and lodging management. NJ: JohnWiley & Sons, Inc.
+Tsou, C. H. (2008). Multi-objective inventory planning using MOPSO and TOPSIS. Expert 
+Systems with Applications, 35(1-2), 136-142.
+Urtasun, A., & Gutierrez, I. (2006), Hotel location in tourism cities Madrid 1936–1998, Annals 
+of Tourism Research, 33(2), 382–402.
+Voss, G., Parasuraman, A., & Grewal, D. (1998). The role of price and quality perceptions in 
+repurchase and post purchase evaluation of services. Journal of Marketing 62(4), 46– 61.
+Wang, F. C., Hung, W. T., Shang, J. K. (2006a). Measuring the cost efficiency of international 
+tourist hotels in Taiwan. Tourism Economics, 12(1), 65–85.
+Wang, F. C., Shang, J. K., Hung, W. T. (2006b). Productivity and service quality changes 
+in international hotels in Taiwan. Annals of Tourism Research, 33(2), 571–574.
+Wang, Y. J. (2007). Applying FMCDM to evaluate financial performance of domestic 
+airlines in Taiwan. Expert Systems with Applications, 34(3), 1837-1845.
+Wang, Y. M., & Elhag, T. M. S. (2006). Fuzzy TOPSIS method based on alpha level sets 
+with an application to bridge risk assessment. Expert Systems with Applications, 31, 
+309–319. 
+Wilkins, Merrilees, B., & Herington, C. (2007). Towards an understanding of total service 
+quality in hotels, Hospitality Management, 26(4), 840–853. 
+Yüksel, ˙I, & Da˘gdeviren, M. (2007). Using the analytic network process (ANP) in a 
+SWOT analysis-A case study for a textile firm. Information Sciences, 177, 3364–3382.
+Yuksel, E., Popi, P., & Cihan, C. (2003). Service quality in Cretan accommodations: 
+Marketing strategies for the UK holiday market. International Journal of Hospitality 
+Management, 22(1), 47–66
